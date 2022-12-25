@@ -1,0 +1,30 @@
+/* About US */
+.content-about, .container-map {
+    background-color: #fff;
+    box-shadow: 2px 11px 30px -9px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 2px 11px 30px -9px rgba(0,0,0,0.59);
+    -moz-box-shadow: 2px 11px 30px -9px rgba(0,0,0,0.59);
+}
+
+.container-map, .list-unstyled {
+    padding: 20px;
+    margin-top: 10px;
+}
+.maps {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.where {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+.adress {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+/* About Us */

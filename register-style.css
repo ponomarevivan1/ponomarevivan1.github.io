@@ -1,0 +1,50 @@
+.registration-sector .container {
+    background-color: #fff;
+    box-shadow: 2px 11px 30px -9px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 2px 11px 30px -9px rgba(0,0,0,0.59);
+    -moz-box-shadow: 2px 11px 30px -9px rgba(0,0,0,0.59);
+}
+.authorization-sector {
+    background-color: #fff;
+    box-shadow: 2px 11px 30px -9px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 2px 11px 30px -9px rgba(0,0,0,0.59);
+    -moz-box-shadow: 2px 11px 30px -9px rgba(0,0,0,0.59);
+}
+
+.registration-sector .forma {
+    height: 600px;
+}
+
+.authorization-sector .forma {
+    height: 325px;
+}
+
+.registration-sector form {
+    max-height: 400px;
+    margin-top: 0;
+}
+
+.registration-sector .w-75 {
+    width: 75% !important;
+    margin-top: 30px;
+}
+
+.registration-sector .list-unstyled a {
+    background-color: #555;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.registration-sector .list-unstyled a:hover {
+    color: #c8c8c8;
+}
+
+.authorization-sector .list-unstyled a {
+    color: #555;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.authorization-sector .list-unstyled a:hover {
+    color: #c8c8c8;
+}
